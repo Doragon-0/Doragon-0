@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello there! 👋
 
-<!--
-**Doragon-0/Doragon-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Doragon, a developer who enjoys turning ideas into software.
 
-Here are some ideas to get you started:
+Whether it's building games, experimenting with machine learning, or developing backend systems, I love learning by creating real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- 🎮 Game Development
+- 🤖 Machine Learning
+- ⚙️ Backend Development
+- 🐧 Linux
+- 📚 Software Engineering
+
+## Current Goal
+
+Building projects that combine artificial intelligence and game development while continuously improving my programming skills.
